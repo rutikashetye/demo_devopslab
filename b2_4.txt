@@ -1,1 +1,3 @@
 this is file 4 on branch 2
+
+new change for file 4 on b4
